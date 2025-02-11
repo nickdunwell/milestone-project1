@@ -7,8 +7,8 @@
 :root {
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Macondo", cursive;
-    --primary-color: #3a2620; /* dark brown */
-    --secondary-color: #aa9581; /* light brown */
+    --primary-color: #313977; /* light blue */
+    --secondary-color: #2eb239; /* light green */
     --highlight-color: #416a8e; /* blue */
     --highlight-color-light: #7a9fc2; /* light blue */
 }
@@ -85,6 +85,10 @@ h2 {
     font-family: var(--secondary-font);
 }
 
+.carousel-item {
+    height: 50vh;
+    width: 100%;
+}
 /* Services */
 
 #services .card-footer {
@@ -107,22 +111,7 @@ h2 {
     font-size: 0.7rem;
 }
 
-.student-discount {
-    background-color: var(--highlight-color);
-    font-weight: bold;
-    color: white;
-    display: block;
-    max-width: 300px;
-    margin: auto;
-    padding: 5px 10px;
-    font-size: 0.8rem;
-}
-/* Game library cards */
 
-#new-games .card,
-#fav-games .card {
-    border: none;
-}
 
 /* Footer / contact */
 
@@ -167,13 +156,9 @@ h2 {
 
 /* Small screens and up */
 @media screen and (min-width: 576px) {
-    /* increase font size in events table when screen size is large enough */
-    #events .table {
-        font-size: 1rem;
-    }
-    .student-discount {
-        font-size: 1rem;
-    }
+    
+    
+    
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -203,7 +188,7 @@ h2 {
 /* xxl devices (larger desktops, 1400px and up) */
 @media screen and (min-width: 1400px) {
     /* make all service cards the same height for consistency */
-    #services .card-body {
+    #card-img-top .pilates {
         min-height: 195px;
     }
 }
