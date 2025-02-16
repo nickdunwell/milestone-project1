@@ -34,6 +34,7 @@ h2 {
 
 h2 {
     margin-bottom: 2rem;
+    background-color: var(--highlight-color-light);
 }
 
 .sub-heading-color {
@@ -89,17 +90,10 @@ h2 {
     height: 50vh;
     width: 100%;
 }
-/* Services */
 
-#services .card-footer {
-    font-weight: bold;
-    color: var(--highlight-color);
-    background-color: transparent;
-}
 
-#services .card {
-    margin-bottom: 1.5rem;
-}
+
+
 
 /* Events */
 
@@ -111,7 +105,9 @@ h2 {
     font-size: 0.7rem;
 }
 
-
+#card .pilates {
+    max-height: 200px;
+}
 
 /* Footer / contact */
 
