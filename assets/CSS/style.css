@@ -91,22 +91,10 @@ h2 {
     width: 100%;
 }
 
-
-
-
-
-/* Events */
-
-#events .table {
-    /* events table font size small enough that 
-      the table doesn't overflow on xs screens. 
-      Size set back to 1rem in a media query 
-      for sm screens and up */
-    font-size: 0.7rem;
-}
-
-#card .pilates {
-    max-height: 200px;
+#instructors .card {
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap ;
 }
 
 /* Footer / contact */
