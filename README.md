@@ -1,1 +1,2 @@
-# milestone-project1
+# Milestone-project1
+## Table of Contents
