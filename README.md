@@ -3,7 +3,7 @@
 # BUFF GYM Website
 
 ## Table of Contents
-* [Project Overview](#project-overview)
+
 * [User Experience (UX)](#user-experience-ux)
 * [Design](#design)
   * [Colour Scheme](#colour-scheme)
