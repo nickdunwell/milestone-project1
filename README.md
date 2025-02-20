@@ -18,11 +18,8 @@
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used) 
-* [Deployment & Local Development](#deployment-local-development)
+* [Deployment](#deployment)
   * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
 * [Testing](#testing)
   * [Solved Bugs](#solved-bugs)
   * [Known Bugs](#known-bugs)
@@ -40,6 +37,8 @@
  * I want to be able to see what the gym has to offer.
  * I want to site to be responsive to my device.
  * I want the site to be easy to navigate.
+ * I want to be able to see members of staff.
+ * I want to be able to find the contact details of the gym.
 
 ### Returning Visitor Goals
 
@@ -85,7 +84,7 @@ Wireframes were created for this website using Balsamiq
 
 ### Features
 
-The website mainly comprises of a main page, where the majority of functions can be accessed. There is an additional Booking page.
+The website mainly comprises of a main page, where the majority of functions can be accessed. There is an additional Booking and Success page.
 
 All pages and buttons on the website are responsive and have:
 
@@ -115,10 +114,12 @@ All pages and buttons on the website are responsive and have:
 
   ### The Booking Page
 
-  The booking page includes a form to fill in with the intention of joining a class. After the submit button is pressed, there is an additional Success page, notifying the user that their form has successfully been submitted, and gives the option to go back to the mhome page.
+  The booking page includes a form to fill in with the intention of joining a class. After the submit button is pressed, there is an additional Success page, notifying the user that their form has successfully been submitted, and gives the option to go back to the Home page.
 
   ![Booking Page] (https://bqspj775-8000.uks1.devtunnels.ms/booking.html)
 
+  The success page appears after you have successfully completed the booking form. The for is set up that you need to complete the appropriate criteria (a number in the phone number box, email address in the email box, etc.), so that the user gets instant feedback as to whether the form has been filled in and sent correctly.
+  
   ![Success Page] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Success.jpg")
 
   - - -
@@ -127,7 +128,7 @@ All pages and buttons on the website are responsive and have:
 
   ### Languages Used
 
-  HTML, CSS
+  HTML, CSS, Bootstrap
 
   ### Framework, Libraries & programs Used
 
@@ -147,7 +148,7 @@ All pages and buttons on the website are responsive and have:
 
     - - -
 
-  ## Deployment & Local Development
+  ## Deployment
 
   ### Deployment
 
@@ -161,39 +162,28 @@ All pages and buttons on the website are responsive and have:
   4. Select pages in the left hand navigation menu.
   5. From the source dropdown select main branch and press save.
   6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
-
-  ### Local Development
-
-  #### How to Fork
-
-  To fork the repository:
-
-  1. Log in (or sign up) to Github.
-  2. Got to the repository for this project, [nickdunwell/BUFFGYM] (https://github.com/nickdunwell/milestone-project1/)
-  3. Click the Fork button in the top right corner.
-
-  #### How to Clone
-
-  To clone the repository:
-  1. Log in (or sign up) to GitHub.
-  2. Got to the repository for this project, [nickdunwell/BUFFGYM] (https://github.com/nickdunwell/milestone-project1/)
-  3. Click on the code button, selectwhether you would liek to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
-  4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-  5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
  
   - - -
 
   ## Testing
 
-  Please refer to [TESTING.md(TESTING.md)
+  To primarily test my website, I used Lighthouse in Devtools
 
+  I used W3C Markup Validator for HTML and CSS validation - [W3C Validator](https://validator.w3.org/)
+
+  
   ### Solved Bugs
 
+  There were a couple of issues with W3C Validator, but seem to be mainly unclosed code, which was rectified.
 
-  ## Credits
+  ## Acknowledgements
+
+  Marko Tot - my Code Institute facilitator. 
+
+  Jubril Akolade, my Code Institute mentor. 
+
+  The Code Institute Slack online community, who are always there to guide a wandering hand.
   
-  ### Code Used
-
-  * I
+  
 
      
