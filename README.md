@@ -18,11 +18,8 @@
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used) 
-* [Deployment & Local Development](#deployment-local-development)
+* [Deployment](#deployment)
   * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
 * [Testing](#testing)
   * [Solved Bugs](#solved-bugs)
   * [Known Bugs](#known-bugs)
@@ -40,6 +37,8 @@
  * I want to be able to see what the gym has to offer.
  * I want to site to be responsive to my device.
  * I want the site to be easy to navigate.
+ * I want to be able to see members of staff.
+ * I want to be able to find the contact details of the gym.
 
 ### Returning Visitor Goals
 
@@ -149,7 +148,7 @@ All pages and buttons on the website are responsive and have:
 
     - - -
 
-  ## Deployment & Local Development
+  ## Deployment
 
   ### Deployment
 
