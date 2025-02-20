@@ -176,13 +176,14 @@ All pages and buttons on the website are responsive and have:
 
   There were a couple of issues with W3C Validator, but seem to be mainly unclosed code, which was rectified.
 
-  ## Credits
+  ## Acknowledgements
 
-  Many thanks to Marko Tot, my facilitator. (https://app.slack.com/client/T0L30B202/CP07TN38Q)
+  Marko Tot - my Code Institute facilitator. 
 
-  @jubril_mentor, my mentor (https://app.slack.com/client/T0L30B202/CP07TN38Q)
-  ### Code Used
+  Jubril Akolade, my Code Institute mentor. 
 
-  * I
+  The Code Institute Slack online community, who are always there to guide a wandering hand.
+  
+  
 
      
