@@ -167,13 +167,20 @@ All pages and buttons on the website are responsive and have:
 
   ## Testing
 
-  Please refer to [TESTING.md(TESTING.md)
+  To primarily test my website, I used Lighthouse in Devtools
 
+  I used W3C Markup Validator for HTML and CSS validation - [W3C Validator](https://validator.w3.org/)
+
+  
   ### Solved Bugs
 
+  There were a couple of issues with W3C Validator, but seem to be mainly unclosed code, which was rectified.
 
   ## Credits
-  
+
+  Many thanks to Marko Tot, my facilitator. (https://app.slack.com/client/T0L30B202/CP07TN38Q)
+
+  @jubril_mentor, my mentor (https://app.slack.com/client/T0L30B202/CP07TN38Q)
   ### Code Used
 
   * I
