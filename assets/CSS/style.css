@@ -104,6 +104,17 @@ h2 {
     margin: 10px;
   }
 
+  .card-img-top {
+    height: 287px;
+    width: 305px;
+    border-radius: 5px; 
+  }
+
+ #instructors .card-img-top {
+
+    height: 414px;
+    width: 278px;
+ }
   .row::after {
     content: "";
     clear: both;
@@ -152,7 +163,7 @@ h2 {
 
 /* Small screens and up */
 @media screen and (min-width: 576px) {
-   .card {
+   #meet {
        min-height: 191px;
     
 }
@@ -161,7 +172,7 @@ h2 {
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     /* Make all service cards the same height for consistency */
-     .card {
+     #meet {
         min-height: 191px;
     }
 }
@@ -169,7 +180,7 @@ h2 {
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
     /* Make all class cards the same height for consistency */
-    .card {
+    #meet {
         min-height: auto;
     }
 }
@@ -177,7 +188,7 @@ h2 {
 /* xl devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
     /* make all class cards the same height for consistency */
-    .card {
+    #meet {
         min-height: 220px;
     }
 }
@@ -185,7 +196,7 @@ h2 {
 /* xxl devices (larger desktops, 1400px and up) */
 @media screen and (min-width: 1400px) {
     /* make all class cards the same height for consistency */
-    .card {
+    #meet {
         min-height: 195px;
     }
 }
