@@ -112,7 +112,8 @@ h2 {
  #instructors .card-img-top {
 
     height: 414px;
-    width: 100%;
+    
+    
  }
   .row::after {
     content: "";
@@ -169,6 +170,9 @@ h2 {
    }
     #meet {
        min-height: 191px;
+       overflow: hidden;
+        background-size: cover;
+        background-position: space-between;
     
 }
 }
@@ -180,6 +184,7 @@ h2 {
     /* Make all cards the same height for consistency */
      #meet {
         min-height: 191px;
+        
     }
 }
 
@@ -196,6 +201,9 @@ h2 {
     /* make all class cards the same height for consistency */
     #meet {
         min-height: 220px;
+        overflow: hidden;
+        background-size: cover;
+        background-position: space-between;
     }
 }
 
@@ -204,5 +212,8 @@ h2 {
     /* make all class cards the same height for consistency */
     #meet {
         min-height: 195px;
+        overflow: hidden;
+        background-size: cover;
+        background-position: space-between;
     }
 }
