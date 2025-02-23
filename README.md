@@ -1,4 +1,4 @@
-# Milestone-Project1(https://github.com/nickdunwell/milestone-project1)
+# Milestone-Project1
 
 # BUFF GYM Website
 
@@ -18,8 +18,11 @@
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used) 
-* [Deployment](#deployment)
+* [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
+  * [Local Development](#local-development)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
 * [Testing](#testing)
   * [Solved Bugs](#solved-bugs)
   * [Known Bugs](#known-bugs)
@@ -50,7 +53,7 @@
 
 - - -
 
-##Design
+## Design
 
 ## Colour Scheme
 
@@ -61,7 +64,7 @@ In my CSS file, I have used variables to declare colours, and then used these th
   * I have used '#313977' and '#2eb239' as the primary and secondary colours used for background and text colours.
   * I have used '#416a8e' and '#7a9fc2' as highlight colours for buttons.
 
-###Typography
+### Typography
 
 Google Fonts was used to import the chosen fonts that I have used on the site.
 
@@ -78,9 +81,9 @@ All images have come from [Google Images](https://images.google.co.uk/)
 
 Wireframes were created for this website using Balsamiq
 
-[Homepage]("C:\Users\Nick\Desktop\assets\BUFF GYM Wireframe.pdf")
+![Homepage]("C:\Users\Nick\Documents\milestone-project1\assets\images\BUFF GYM.png")
 
-[Booking and Success Page]("C:\Users\Nick\Desktop\assets\Booking Page.pdf")
+![Booking and Success Page]("C:\Users\Nick\Documents\milestone-project1\assets\images\Booking Page.png")
 
 ### Features
 
@@ -147,6 +150,7 @@ All pages and buttons on the website are responsive and have:
     *[Favicon](https://favicon.io/) - To add badges.
 
     - - -
+  ## Deployment and Local Development
 
   ## Deployment
 
@@ -162,7 +166,26 @@ All pages and buttons on the website are responsive and have:
   4. Select pages in the left hand navigation menu.
   5. From the source dropdown select main branch and press save.
   6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
- 
+
+### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [kera-cudmore/TheQuizArms](https://github.com/kera-cudmore/TheQuizArms)
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [kera-cudmore/TheQuizArms](https://github.com/kera-cudmore/TheQuizArms)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
   - - -
 
   ## Testing
