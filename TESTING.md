@@ -30,7 +30,7 @@ I have gone through each page using google chrome developer tools & Firefox insp
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-* index.html - Error: Duplicat ID (<div class="card" id="meet">). When I tried to take it out, the imagery was wrong, so hav eleft them in.
+* index.html - [index.html](. When I tried to take it out, the imagery was wrong, so hav eleft them in.
 * booking.html - Passed, no errors
 * success.html - Passed, no errors.
 
@@ -62,22 +62,23 @@ The SEO issues are the same as desktop.
 
 | Goals | How are they achieved? |
 | :--- | :--- |
-| I want to take part in a pub quiz online and improve my general knowledge. I want to be able to play at any time, anywhere. | The Quiz Arms pulls general knowledge quiz questions from a large variety of topics, much like a pub quiz would do. The site is available for use whenever is convenient to the user. |
+| I want to see what the gym has to offer | The BUFF GYM homepage has all the information that the user needs, in regards to classes and opening times. |
 | I want the site to be responsive to my device. | I have developed the site with responsiveness in mind. |
-| I want the site to be easy to navigate. | Buttons are used throughout the site for navigation, much like a mobile app. As the site is like a mobile app - I decided that I didn't want to add a navigation bar or footer, as these would make the site look more like a traditional webpage. The page title also acts as a link to the home page.  |
+| I want the site to be easy to navigate. | Buttons are used throughout the site for navigation, much like a mobile app. There is a header, which has all buttons to take to straight to the section the user is interested in. The page logo also acts as a link to the home page.  |
+| I want to be able to see members of staff. | There is a section, which shows the various members of staff and which classes they take. |
+| I want to be able to find the contact details of the gym | The user can navigate to these by either scrolling down to the footer, or by using the clickable link in the navbar at te head of the page. |
 
 `Returning Visitors`
 
 |  Goals | How are they achieved? |
 | :--- | :--- |
-| I want to be able to choose a level of difficulty that I feel is appropriate for me, based on my experience from my first visit to the site. | Users are able to select their own level of difficulty before the game begins. Once they have played they are free to select a different level of difficulty for subsequent games. |
+| I want to be able to quickly access the section I am interested in. | Users can quickly and easily use the navbar, located in the header of the main page, booking page, or the success page. |
 
 `Frequent Visitors`
 
 | Goals | How are they achieved? |
 | :--- | :--- |
-| I want to be able to adjust the difficulty level to keep improving my knowledge. | Users are able to select their own level of difficulty before the game begins. Once they have played they are free to select a different level of difficulty for subsequent games. |
-| I want to be able to log my high scores to see how I am performing. | Users of the site are able to log their high scores to the high scores page. The top ten results will be displayed. |
+| I want to know that everything is where I expect it to be. | The user will find the sections they want will not change over time and, therefore will become familiar. |
 
 - - -
 
@@ -86,33 +87,25 @@ The SEO issues are the same as desktop.
 Full testing was performed on the following devices:
 
 * Laptop:
-  * Macbook Pro 2021 14 inch screen
+  * Dell Inspiron 15" screen
 * Mobile Devices:
-  * iPhone 13 pro.
-  * iPhone 11 pro.
-  * Phone X.
+  * iPhone 12.
+  
 
 Each device tested the site using the following browsers:
 
 * Google Chrome
 * Safari
-* Firefox
 
-Additional testing was taken by friends and family on a variety of devices and screen sizes. They reported no issues when playing.
-
-One tester in peer code review stated that the bottom of the play screen was cut off when testing on an iphone SE (2nd gen). I was unable to replicate this issue using google chrome developer tools.
 
 `Home Page`
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
-| How to play button | Displays the modal with the instructions on how to play the game | Clicked on button | Modal with instructions on how to play opens | Pass |
-| Modal close button | Closes the modal | Clicked on close button | Modal closed | Pass |
-| Play Button | Directs the user to the game page | Clicked on button | Game page opens to display the difficulty selections | Pass |
-| High Scores Button | Directs the user to the high scores page | Clicked on button | Directs to the high scores page | Pass |
-| All buttons - hover effect | All black buttons with white text should change to white with black text when hovered over. | Hover over each button on the page | Each button displayed the correct styling when hovered over | Pass |
-| 🍺 Cursor | The 🍺 should display when a user moves the mouse over a button | Moved the mouse over each button to check the cursor changed upon entering the button | The cursor changed from the arrow cursor to the 🍺 cursor | Pass |
+| The Sites logo | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Navbar | Displays Home, Classes, Meet the Team, Contact | Clicked on button | Takes you to the desired section | Pass |
+| Book Now button | Directs users to the booking form | Clicked on button | Opens the booking page | Pass |
+| 2nd Book Now button | Directs user to the booking form | Clicked on button | Booking page opens | Pass |
 
 `Game Page - Difficulty Selection`
 
