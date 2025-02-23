@@ -50,19 +50,9 @@ The SEO issues are just because the website has not been deployed amd searchable
 
 ### Mobile Results
 
-Each page is achieving a score of 100 for the last three categories. The performance category is achieving a score of 98 for the first three pages and a score of 99 on the 404 & 500 page.
-
-![index.html](testing/lighthouse/lighthouse-mobile-index.webp)
-
-![game.html](testing/lighthouse/lighthouse-mobile-game.webp)
-
-![highscores.html](testing/lighthouse/lighthouse-mobile-highscores.webp)
-
-![404.html](testing/lighthouse/lighthouse-mobile-404.webp)
-
-![500.html](testing/lighthouse/lighthouse-mobile-500.png)
-
-- - -
+![index.html](https://github.com/nickdunwell/milestone-project1/blob/main/lighthouse-results-mobile.jpg)
+The performance results are, again, because of image sizing and external retrieval.
+The SEO issues are the same as desktop.
 
 ## MANUAL TESTING
 
