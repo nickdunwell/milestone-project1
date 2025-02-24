@@ -95,7 +95,7 @@ All pages and buttons on the website are responsive and have:
    ![Favicon](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/dumbell.png))
 
 * A header bar with responsive buttons for the main sections:
-  ![Header] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Header.jpg")
+  [![Header](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/Header.jpg)
 
   #### The Home Page
 
