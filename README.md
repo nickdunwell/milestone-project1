@@ -105,7 +105,7 @@ All pages and buttons on the website are responsive and have:
   
   Next on the page is information about the classes held at the gym, along with images and cost of these classess.s
 
-  ![[Classes](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/classes.jpg)
+  ![Classes](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/classes.jpg)
 
   the next section is Meet the Team, with images of team members and the classes they run.
 
@@ -119,11 +119,11 @@ All pages and buttons on the website are responsive and have:
 
   The booking page includes a form to fill in with the intention of joining a class. After the submit button is pressed, there is an additional Success page, notifying the user that their form has successfully been submitted, and gives the option to go back to the Home page.
 
-  ![Booking Page] (https://bqspj775-8000.uks1.devtunnels.ms/booking.html)
+  ![Booking Page](assets/images/booking-form.jpg)
 
   The success page appears after you have successfully completed the booking form. The for is set up that you need to complete the appropriate criteria (a number in the phone number box, email address in the email box, etc.), so that the user gets instant feedback as to whether the form has been filled in and sent correctly.
   
-  ![Success Page] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Success.jpg")
+  ![Success Page](assets/images/Success.jpg)
 
   - - -
 
@@ -174,7 +174,7 @@ All pages and buttons on the website are responsive and have:
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [kera-cudmore/TheQuizArms](https://github.com/kera-cudmore/TheQuizArms)
+2. Go to the repository for this project, [nick-dunwell/BUFFGYM](https://github.com/nickdunwell/milestone-project1/)
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -182,7 +182,7 @@ To fork the repository:
 To clone the repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [kera-cudmore/TheQuizArms](https://github.com/kera-cudmore/TheQuizArms)
+2. Go to the repository for this project, [nick-dunwell/BUFFGYM](https://github.com/nickdunwell/milestone-project1/)
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
