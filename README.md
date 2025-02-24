@@ -105,7 +105,7 @@ All pages and buttons on the website are responsive and have:
   
   Next on the page is information about the classes held at the gym, along with images and cost of these classess.s
 
-  ![Classes] ("C:\Users\Nick\Documents\milestone-project1\assets\images\classes.jpg")
+  ![[Classes](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/classes.jpg)
 
   the next section is Meet the Team, with images of team members and the classes they run.
 
