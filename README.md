@@ -101,7 +101,7 @@ All pages and buttons on the website are responsive and have:
 
   The home page of the BUFF GYM website displays the sites name as well as a container which holds some welcome text as well as a booking button. There is also a carousel, which scrolls through images of the gym.
 
-  ![Home page image] ("C:\Users\Nick\Documents\milestone-project1\assets\images\home page.jpg")
+  ![Home page image](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/home-page.jpg)
   
   Next on the page is information about the classes held at the gym, along with images and cost of these classess.s
 
