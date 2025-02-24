@@ -92,7 +92,7 @@ The website mainly comprises of a main page, where the majority of functions can
 All pages and buttons on the website are responsive and have:
 
 * A Favicon in the browser tab.
-   ![Favicon] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Browser Tab.jpg")
+   ![Favicon](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/dumbell.png))
 
 * A header bar with responsive buttons for the main sections:
   ![Header] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Header.jpg")
