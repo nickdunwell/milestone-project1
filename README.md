@@ -57,7 +57,7 @@
 
 ## Colour Scheme
 
-I wanted the look of the site to be plain and straighhtforward and, as such, have only gone with 2 colours (green and blue), with a lighter version for highlighting.
+I wanted the look of the site to be plain and straightforward and, as such, have only gone with 2 colours (green and blue), with a lighter version for highlighting.
 
 In my CSS file, I have used variables to declare colours, and then used these throughout the css file.
 
@@ -99,19 +99,19 @@ All pages and buttons on the website are responsive and have:
 
   #### The Home Page
 
-  The home page of the BUFF GYM website displays the sites name as well as a container which holds some welcome text as well as a booking button. There is also a carousel, which scrolls through images of the gym.
+  The home page of the BUFF GYM website displays the site's name as well as a container which holds some welcome text as well as a booking button. There is also a carousel, which scrolls through images of the gym.
 
   ![Home page image](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/home-page.jpg)
   
-  Next on the page is information about the classes held at the gym, along with images and cost of these classess.s
+  Next on the page is information about the classes held at the gym, along with images and cost of these classes.
 
   ![Classes](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/classes.jpg)
 
-  the next section is Meet the Team, with images of team members and the classes they run.
+  The next section is Meet the Team, with images of team members and the classes they run.
 
   ![Meet the Team](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/meet.png)
 
-  In the footer, there is contact details, including address, email, phone number and opening times.
+  In the footer, there are contact details, including address, email, phone number, social media and opening times.
 
   ![Contact](assets/images/contact.jpg)
 
@@ -121,7 +121,7 @@ All pages and buttons on the website are responsive and have:
 
   ![Booking Page](assets/images/booking-form.jpg)
 
-  The success page appears after you have successfully completed the booking form. The for is set up that you need to complete the appropriate criteria (a number in the phone number box, email address in the email box, etc.), so that the user gets instant feedback as to whether the form has been filled in and sent correctly.
+  The success page appears after you have successfully completed the booking form. The form is set up that you need to complete the appropriate criteria (a number in the phone number box, email address in the email box, etc.), so that the user gets instant feedback as to whether the form has been filled in and sent correctly.
   
   ![Success Page](assets/images/Success.jpg)
 
