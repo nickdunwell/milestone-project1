@@ -24,7 +24,11 @@
     ensure it always stays at the bottom of the page -->
 
 <body class="d-flex flex-column min-vh-100">
-    <!-- Navigation -->
+    
+
+    <!-- header section -->
+    <header id="header" class="container section">
+        <!-- Navigation -->
     <nav id="navbar" class="navbar navbar-expand-lg fixed-top" data-bs-theme="dark">
         <div class="container">
             <a class="navbar-brand" href="index.html">
@@ -55,9 +59,7 @@
             </div>
         </div>
     </nav>
-
-    <!-- header section -->
-    <header id="header" class="container section">
+</header>
         <div class="row justify-content-center">
             <div class="col-12 col-md-8 text-center text-xl-start">
                 <h1 class="display-3">BUFF GYM</h1>
@@ -69,7 +71,7 @@
                 </p>
             </div>
         </div>
-    </header>
+    
 
     <main>
         <!-- Booking inquiry form section -->
@@ -80,19 +82,19 @@
                     <form action="success.html" method="GET">
                         <div class="row">
                             <div class="col-12 col-lg-6 mb-3">
-                                <label for="name" class="form-label">Name</label>
+                                <label for="name" class="form-label">Name*</label>
                                 <input class="form-control" id="name" name="name" type="text" required>
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
-                                <label for="email" class="form-label">Email</label>
+                                <label for="email" class="form-label">Email*</label>
                                 <input class="form-control" id="email" name="email" type="email" required>
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
-                                <label for="phone" class="form-label">Phone number</label>
+                                <label for="phone" class="form-label">Phone number*</label>
                                 <input class="form-control" id="phone" name="phone" type="number" required>
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
-                                <label for="event-type" class="form-label">Event type</label>
+                                <label for="event-type" class="form-label">Event type*</label>
                                 <select id="event-type" class="form-select" name="event-type" required>
                                     <option value="" selected>Select</option>
                                     <option value="zumba">Zumba</option>
@@ -103,9 +105,10 @@
                                 </select>
                             </div>
                             <div class="col-12 mb-3">
-                                <label for="message" class="form-label">Message</label>
+                                <label for="message" class="form-label">Message*</label>
                                 <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
                             </div>
+                            <p>* required</p>
                         </div>
 
                         <button type="submit" class="btn custom-button-filled gap-2 col-6 mx-auto" style="margin: 18px;">Submit</button>
