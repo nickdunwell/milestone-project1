@@ -81,7 +81,7 @@ All images have come from [Google Images](https://images.google.co.uk/)
 
 Wireframes were created for this website using Balsamiq
 
-![Homepage]("C:\Users\Nick\Documents\milestone-project1\assets\images\BUFF GYM.png")
+![Homepage](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/homepage.png))
 
 ![Booking and Success Page](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/booking-page.png)")
 
