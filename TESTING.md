@@ -52,7 +52,7 @@ The SEO issues are just because the website has not been deployed amd searchable
 
 ### Mobile Results
 
-![index.html](https://github.com/nickdunwell/milestone-project1/blob/main/lighthouse-results-mobile.jpg)
+![index.html](assets/images/lighthouse-results-mobile.jpg)
 
 The performance results are, again, because of image sizing and external retrieval.
 The SEO issues are the same as desktop.
