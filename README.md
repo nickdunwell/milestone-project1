@@ -113,7 +113,7 @@ All pages and buttons on the website are responsive and have:
 
   In the footer, there is contact details, including address, email, phone number and opening times.
 
-  ![Contact] ("C:\Users\Nick\Documents\milestone-project1\assets\images\contact.jpg")
+  ![Contact](assets/images/contact.jpg)
 
   ### The Booking Page
 
