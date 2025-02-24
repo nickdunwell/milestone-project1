@@ -30,7 +30,7 @@ I have gone through each page using google chrome developer tools & Firefox insp
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-* W3 Error ![w3error](https://github.com/nickdunwell/milestone-project1/blob/main/w3error.jpg).
+* W3 Error ![w3error](assets/images/w3error.jpg).
 * When I tried to take it out, the imagery was in the wrong place. After speaking to my mentor, I have removed the ID and it now comes up with no errors.
 * booking.html - Passed, no errors
 * success.html - Passed, no errors.
