@@ -109,7 +109,7 @@ All pages and buttons on the website are responsive and have:
 
   the next section is Meet the Team, with images of team members and the classes they run.
 
-  ![Meet the Team] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Meet.jpg")
+  ![Meet the Team](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/meet.png)
 
   In the footer, there is contact details, including address, email, phone number and opening times.
 
