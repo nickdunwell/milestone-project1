@@ -119,7 +119,7 @@ All pages and buttons on the website are responsive and have:
 
   The booking page includes a form to fill in with the intention of joining a class. After the submit button is pressed, there is an additional Success page, notifying the user that their form has successfully been submitted, and gives the option to go back to the Home page.
 
-  ![Booking Page] (https://bqspj775-8000.uks1.devtunnels.ms/booking.html)
+  ![Booking Page](assets/images/booking-form.jpg)
 
   The success page appears after you have successfully completed the booking form. The for is set up that you need to complete the appropriate criteria (a number in the phone number box, email address in the email box, etc.), so that the user gets instant feedback as to whether the form has been filled in and sent correctly.
   
