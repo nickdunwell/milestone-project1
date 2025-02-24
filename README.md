@@ -81,9 +81,9 @@ All images have come from [Google Images](https://images.google.co.uk/)
 
 Wireframes were created for this website using Balsamiq
 
-![Homepage]("C:\Users\Nick\Documents\milestone-project1\assets\images\BUFF GYM.png")
+![Homepage](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/homepage.png))
 
-![Booking and Success Page]("C:\Users\Nick\Documents\milestone-project1\assets\images\Booking Page.png")
+![Booking and Success Page](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/booking-page.png)")
 
 ### Features
 
@@ -92,28 +92,28 @@ The website mainly comprises of a main page, where the majority of functions can
 All pages and buttons on the website are responsive and have:
 
 * A Favicon in the browser tab.
-   ![Favicon] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Browser Tab.jpg")
+   ![Favicon](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/dumbell.png))
 
 * A header bar with responsive buttons for the main sections:
-  ![Header] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Header.jpg")
+  [![Header](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/Header.jpg)
 
   #### The Home Page
 
   The home page of the BUFF GYM website displays the sites name as well as a container which holds some welcome text as well as a booking button. There is also a carousel, which scrolls through images of the gym.
 
-  ![Home page image] ("C:\Users\Nick\Documents\milestone-project1\assets\images\home page.jpg")
+  ![Home page image](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/home-page.jpg)
   
   Next on the page is information about the classes held at the gym, along with images and cost of these classess.s
 
-  ![Classes] ("C:\Users\Nick\Documents\milestone-project1\assets\images\classes.jpg")
+  ![[Classes](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/classes.jpg)
 
   the next section is Meet the Team, with images of team members and the classes they run.
 
-  ![Meet the Team] ("C:\Users\Nick\Documents\milestone-project1\assets\images\Meet.jpg")
+  ![Meet the Team](https://github.com/nickdunwell/milestone-project1/blob/main/assets/images/meet.png)
 
   In the footer, there is contact details, including address, email, phone number and opening times.
 
-  ![Contact] ("C:\Users\Nick\Documents\milestone-project1\assets\images\contact.jpg")
+  ![Contact](assets/images/contact.jpg)
 
   ### The Booking Page
 
