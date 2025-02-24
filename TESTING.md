@@ -45,7 +45,7 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 ### Desktop Results
 
-![lighthouse results](https://github.com/nickdunwell/milestone-project1/blob/main/lighthouse-results.jpg) 
+![lighthouse results](assets/images/lighthouse-results.jpg) 
 
 The main performance issues are with image sizing and external font retrieval.
 The SEO issues are just because the website has not been deployed amd searchable yet.
