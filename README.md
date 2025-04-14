@@ -129,6 +129,11 @@ All pages and buttons on the website are responsive and have:
 
   ## Technologies Used
 
+  I used GitHub and VSCode for the code writing.
+  I used BootStrap for templates (mainly the header, photo carousel and opening times).
+  Favicon was used for logos.
+  I used Google images for all photos.
+
   ### Languages Used
 
   HTML, CSS, Bootstrap
